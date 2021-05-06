@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/ronansenati/LearnJavaScript#readme",
   "dependencies": {
-    "underscore": "^1.9.1"
+    "underscore": "^1.12.1"
   },
   "devDependencies": {
     "@babel/cli": "^7.5.5",
